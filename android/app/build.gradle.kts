@@ -29,7 +29,7 @@ android {
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
             // ここを一旦ベタ書きにしてみる
-    	versionCode = 3
+    	versionCode = 4
     	versionName = "1.0.1"
         
     }
